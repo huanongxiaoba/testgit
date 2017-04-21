@@ -1,1 +1,1 @@
-i'm using git
+git is a tool
